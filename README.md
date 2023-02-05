@@ -20,9 +20,14 @@ after List is a placeholder<T>,because not know its type,but when used we can gi
   
   Student stu1 = new Student("1001","tom“，18，”101class");
   
-  List<Student> stuList=new List<Student>();//mandatory type-ArrayList studentList = new ArrayList();
+  List<Student> stuList=new List<Student>();//mandatory type - ArrayList studentList = new ArrayList();
   
   stuList.Add(stu1);//stuList.Add(new Student("1001","tom“，18，”101class"));
   
   )
   
+  dontnet build
+  
+  dontnet run
+  
+ 
