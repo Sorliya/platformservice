@@ -1,6 +1,6 @@
-dotnet new webapi -n platformservice
+dotnet new webapi -n PlatformService
 
-code -r platformservice
+code -r PlatformService
 
 dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 
