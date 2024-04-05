@@ -26,8 +26,8 @@ after List is a placeholder<T>,because not know its type,but when used we can gi
   
   )
   
-  dontnet build
+  dotnet build
   
-  dontnet run
+  dotnet run
   
  
